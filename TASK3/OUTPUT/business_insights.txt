@@ -1,0 +1,30 @@
+NETFLIX COUNTRY-WISE CONTENT ANALYSIS – BUSINESS INSIGHTS
+==============================================================
+Countries represented in the dataset: 86
+Total country-title assignments: 8,790
+
+TOP-PRODUCING COUNTRY
+United States ranks first with 3,240 title assignments.
+
+TOP 10 COUNTRY RANKING
+1. United States: 3,240 titles
+2. India: 1,057 titles
+3. United Kingdom: 638 titles
+4. Pakistan: 421 titles
+5. Not Given: 287 titles
+6. Canada: 271 titles
+7. Japan: 259 titles
+8. South Korea: 214 titles
+9. France: 213 titles
+10. Spain: 182 titles
+
+GEOGRAPHIC CONCENTRATION
+The top three countries account for approximately 56.1% of all country-title assignments.
+
+BUSINESS INTERPRETATION
+- Countries with high title counts are major content markets or production hubs in this dataset.
+- Countries with lower counts may represent opportunities for localized content investment and licensing research.
+- Comparing Movies and TV Shows by country helps identify differences in content strategy across markets.
+- Multi-country titles are counted once for every listed country. Therefore, country counts are not mutually exclusive and their sum can exceed the number of unique Netflix titles.
+
+Note: These results describe the countries recorded in the dataset. They do not independently prove where a title was produced, how many viewers it has, or its commercial performance.

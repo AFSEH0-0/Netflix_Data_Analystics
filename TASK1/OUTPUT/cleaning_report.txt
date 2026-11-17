@@ -1,0 +1,65 @@
+=======================================================
+       NETFLIX DATA CLEANING REPORT
+=======================================================
+
+Generated On: 2026-11-04 14:43:24
+Input Dataset: DATASET\dataset.csv
+
+--- DATASET INFORMATION ---
+Original Records: 8790
+Final Records: 8790
+Total Columns: 10
+Records Removed: 0
+
+--- MISSING VALUES ---
+Missing values before cleaning:
+show_id: 0
+type: 0
+title: 0
+director: 0
+country: 0
+date_added: 0
+release_year: 0
+rating: 0
+duration: 0
+listed_in: 0
+
+Missing values filled: 0
+
+Remaining missing values:
+show_id: 0
+type: 0
+title: 0
+director: 0
+country: 0
+date_added: 0
+release_year: 0
+rating: 0
+duration: 0
+listed_in: 0
+
+--- DUPLICATE RECORDS ---
+Duplicates Removed: 0
+
+--- DATE CLEANING ---
+Invalid Dates: 0
+
+--- FINAL DATASET ---
+Movie Records: 6126
+TV Show Records: 2664
+
+Column Names:
+show_id
+type
+title
+director
+country
+date_added
+release_year
+rating
+duration
+listed_in
+
+=======================================================
+           CLEANING COMPLETED
+=======================================================

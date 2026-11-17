@@ -1,0 +1,13 @@
+NETFLIX CONTENT TYPE ANALYSIS
+====================================
+Total titles analyzed: 8,790
+Movies: 6,126 (69.69%)
+TV Shows: 2,664 (30.31%)
+
+Dominant content type: Movies
+Count difference: 3,462 titles
+
+KEY FINDING
+Movies represent the larger share of the dataset.
+
+Note: Results describe the supplied cleaned dataset only.
