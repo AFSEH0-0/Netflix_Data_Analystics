@@ -1,4 +1,11 @@
 # Netflix Tasks 1, 2, 3, 4, 5 and 6
+TASKS PROJECTS
+- Task 1: Data Cleaning and Preparation
+- Task 2: Content Type Analysis Dashboard
+- Task 3: Country-Wise Netflix Content Analysis
+- Task 4: Trend Analysis by Release Year
+- Task 5: Content Rating & Genre Analysis
+- Task 6: Netflix Business Insights Report
 
 Each task is a separate Streamlit application with its own `OUTPUT` directory.
 
@@ -11,11 +18,3 @@ Each app reads the Task 1 cleaned CSV by default:
 TASK1\OUTPUT\netflix_cleaned.csv`
 
 Each app writes generated files only to its own `OUTPUT` folder.
-
-TASKS PROJECTS
-Task 1: Data Cleaning and Preparation
-Task 2: Content Type Analysis Dashboard
-Task 3: Country-Wise Netflix Content Analysis
-Task 4: Trend Analysis by Release Year
-Task 5: Content Rating & Genre Analysis
-Task 6: Netflix Business Insights Report
